@@ -1,0 +1,7 @@
+Date,City,Product,PaymentMethod,SalesAmount,Discount,Profit
+2024-11-01,New York,Phone,Credit Card,699,50,120
+2024-11-02,Los Angeles,Laptop,Cash,1200,,300
+2024-11-03,New York,Tablet,Debit Card,450,30,80
+2024-11-04,Chicago,Phone,Credit Card,699,30,100
+2024-11-05,Los Angeles,Headphones,Cash,199,10,35
+2024-11-06,Chicago,Laptop,Credit Card,1150,50,250
